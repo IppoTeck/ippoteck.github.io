@@ -1,4 +1,5 @@
 title: IppoTeck
 description: Building useful tools and plugins for the web.
+theme: jekyll-theme-cayman
 include:
   - _includes
